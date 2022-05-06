@@ -14,13 +14,22 @@ THEN the user is able to successfully create, update, and delete data in the dat
 
 ## Mock-Up
 
-**Walkthrough video creating DB & running command line to create seed.**
+**Walkthrough video** creating DB & running command line to create seed.
 
 [![image demostraining command-line & MySQL database.](./assets/images/Data%20base%20%26%20Seeds.gif)
 
-**Walkthrough video demostraining routes by model.**
+**Walkthrough video** demostraining routes by Tags
 
-[![image demostraining functionality on the local host.](./assets/images/E-commerce%20on%20insomnia.gif)
+[![image demostraining functionality on the local host.](./assets/images/Tags%20Routes.gif)
+
+**Walkthrough video** demostraining routes by Category
+
+[![image demostraining functionality on the local host.](./assets/images/Category%20Routes.gif)
+
+**Walkthrough video** demostraining routes by Product
+
+[![image demostraining functionality on the local host.](./assets/images/Products%20Routes.gif)
+
 
 ## Deployment 🚀
 
